@@ -1,0 +1,14 @@
+# SPDX-FileCopyrightText: (C) 2025 pierventre
+# SPDX-License-Identifier: MIT
+
+version = 1
+
+[[annotations]]
+path = [
+  "VERSION",
+  "**.md",
+]
+
+precedence = "aggregate"
+SPDX-FileCopyrightText = "(C) 2025 pierventre"
+SPDX-License-Identifier = "MIT"

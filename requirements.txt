@@ -1,0 +1,8 @@
+# SPDX-FileCopyrightText: (C) 2025 pierventre
+# SPDX-License-Identifier: MIT
+
+instructor
+pydantic
+
+# license check
+reuse~=5.0.2
