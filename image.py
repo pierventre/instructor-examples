@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: (C) 2025 pierventre
+# SPDX-License-Identifier: MIT
+
 from instructor.multimodal import Image
 from pydantic import BaseModel, Field
 import instructor
